@@ -1,2 +1,2 @@
 # my-Calculator
-This is my calculator that i made using javascript.
+This is my calculator that I made using javascript.
